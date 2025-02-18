@@ -3,7 +3,7 @@
 /.keras
 /.lightning_studio
 /examples
-CNN_from_scratch.h5
+# CNN_from_scratch.h5
 getting_started.ipynb
 .vscode/settings.json
 .idea/this_studio.iml
